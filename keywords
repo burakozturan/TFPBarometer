@@ -1,1 +1,24 @@
 
+keywords_english = ['Turkey', 'US', 'United States', 'Turkish American', 'Turkish-American', 'strategic partnership', 'ally', 'crisis', 'Russia', 'Iran', 'Iranian' 'S400', 'S-400',
+                    'Greece', 'Greek', 'authoritarian', 'authoritarianism', 'human rights', 'religious freedom', 'terrorism', 'Kurds', 'Kurdish', 'Egypt', 'Egyptian',
+                    'China', 'Chinese', 'F35', 'F-35', 'sanctions', 'support', 'interest', 'Black Sea', 'Middle East', 'Mediterranean', 'Idlib', 'coup', 'Gülen', 'Brunson',
+                    'Cyprus', 'Erdoğan', 'Çavuşoğlu', 'security detail', 'PKK', 'YPG', 'PYD', 'Montreux', 'Inherent Resolve', 'anti-ISIL', 'anti-DAESH', 'DAESH', 'peace',
+                    'migration', 'refugees', 'trade volume', 'partner', 'NATO', 'Southern Flank', 'block', 'troop surge', 'second largest army', 'Eastern Europe', 'Poland',
+                    'axis', 'swap', 'IMF', 'hostage', 'ransom', 'anti-Americanism', 'enemy', 'friend', 'Islamist', 'competitive authoritarianism', 'defense industry', 'İbrahim Kalın',
+                    'Çavuşoğlu', 'Akar', 'MFA', 'visit', 'Armenian genocide', 'appreciate', 'intelligence', 'support', 'counter terrorism', 'counter-terrorism', 'common interest',
+                    'common threat', 'incursion', 'drone', 'UAV', 'sanctions', 'violation', 'EEZ', 'UNCLOS', 'Hamas', 'Muslim Brotherhood', 'Sudan', 'Deal of Century', 'Jerusalem',
+                    'Arab NATO', 'Incirlik', 'nuclear bomb', 'migration crisis', 'insurgency', 'staunch', 'UAE', 'Saudi Arabia', 'Gulf', 'Qatar', 'Muslim Brotherhood', 'Hamas', 'Israel']
+  
+
+keywords_turkish = ['ABD', 'Amerika', 'Türkiye', 'Türk', 'Amerikan', 'PKK', 'PYD', 'S400', 'S-400', 'Rusya', 'Batı', 'F35' , 'F-35' , 
+                    'savaş uçağı', 'CAATSA', 'darbe',
+                    'Pastor Brunson', 'Rahip Brunson', 'Gülen', 'FETÖ', 'müttefik', 'eksen', 'emperyalizm', 'destek', 'BOP ', 'Büyük Ortadoğu Projesi', 'terör',
+                    'terörist', 'IŞİD', 'DAEŞ', 'DEAŞ', 'Stratejik ortak', 'stratejik ortaklık', 'İncirlik', 'işbirliği', 'yardım', 'ticaret hacmi', '100 milyar Dolar',
+                    'darbe', 'Kıbrıs', 'şantaj', 'tehdit', 'rehine', 'eğit-donat', 'eğit donat', 'çekilme', 'Suriye', 'Irak', 'CENTCOM', 'Pentagon', 'Erdoğan', 'Obama',
+                    'Trump', 'McGurk', 'Halkbank', 'Michael Flynn', 'Doğu Akdeniz', 'Patriot', 'İran yaptırım', 'Dost', 'Dostluk', 'swap', 'NATO', 'NATO zirve(si)',
+                    'Barış Pınarı', 'Fırat Kalkanı', 'Zeytin Dalı', 'Bahar Kalkanı', 'Ziyaret', 'Kongre', 'Lobi', 'Graham', 'Tasarı', 'yaptırım', 'Bolton', 'Clinton',
+                    'IMF', 'Uluslararası Para Fonu', 'Kriz', 'istihbarat', 'savunma sanayii', 'Çavuşoğlu', 'Akar', 'Esper', 'McMaster', 'LNG', 'Shale', 'petrol',
+                    "Robert C. O'Brien", 'KRG', 'Bölgesel Kürt Yönetimi', 'İsrail- Yüzyılın Planı', 'Barış planı', 'İsrail', 'Ortadoğu', 'Kudüs büyükelçilik', 'İslam',
+                    'Evanjelik', 'insan hakları', 'özgürlükler', 'medya', 'oyun', 'plan', 'çıkar', 'Türkiye karşıtı','düşman', 'Ermeni soykırımı iddiası', 'ihanet',
+                     'UNCLOS', 'münhasır ekonomik bölge', 'MEB', 'EEZ']
+                     
